@@ -34,4 +34,5 @@
 
 ```text
 ├── index.html          # 메인 UI 구조 정의
+├── instagram.js        # 브라우저 내장 API를 이용한 DOM 조작 및 이벤트 바인딩  * 직접적인 상태 제어(State Management) 로직 구현
 ├── style.css           # Grid 기반 레이아웃 및
